@@ -1,0 +1,7 @@
+.idea/artifacts/*
+.idea/inspectionProfiles/*
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+out/*
+webapp.iml
